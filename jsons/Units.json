@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Young queen",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 50,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population", 
+			"Only available <in cities with a [Queen chamber]>"]
+	},
+	{
+		"name": "Worker ant",
+		"unitType": "Civilian",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", 
+			"Only available <in cities with a [Workers chamber]>"],
+		"cost": 20
+	},
+	{
+		"name": "Scout ant",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 1,
+		"cost": 15,
+		//"promotions": ["Ignore terrain cost"],
+		"uniques" : ["Never appears as a Barbarian unit"],
+		//"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Soldier ant",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"uniques" : ["Never appears as a Barbarian unit"],
+		//"attackSound": "nonmetalhit",
+	}, 
+	{
+		"name": "Guardian ant",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 5,
+		"cost": 40,
+		"uniques" : ["[+50]% Strength <in [Friendly] tiles>", "Never appears as a Barbarian unit"],
+		//"attackSound": "nonmetalhit",
+	}, 
+	{
+		"name": "Sprayer ant",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 3,
+		"rangedStrength": 5,
+		"uniques" : ["Never appears as a Barbarian unit"],
+		"cost": 30,
+	},
+
+//Barbarian
+	{
+		"name": "Mantis",
+		"unitType": "Melee",
+		"movement": 1,
+		"strength": 15,
+		"cost": 100,
+		"uniques" : ["Unavailable"],
+		//"attackSound": "nonmetalhit",
+	}, 
+	{
+		"name": "Spider",
+		"unitType": "Melee",
+		"movement": 1,
+		"strength": 15,
+		"cost": 100,
+		"uniques" : ["Unavailable"],
+		//"attackSound": "nonmetalhit",
+	}, 
+
+//test
+	{
+		"name": "Human",
+		"unitType": "Melee",
+		"movement": 10,
+		"strength": 1000,
+		"cost": 1000,
+		"uniques": ["[+8] Sight", "Unavailable", "Never appears as a Barbarian unit"]
+	}, 
+]

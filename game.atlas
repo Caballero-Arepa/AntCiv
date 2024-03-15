@@ -1,0 +1,200 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Units/Soldier ant 2
+  rotate: false
+  xy: 4, 4
+  size: 1344, 1024
+  orig: 1344, 1024
+  offset: 0, 0
+  index: -1
+UnitIcons/Soldier ant 2
+  rotate: false
+  xy: 4, 4
+  size: 1344, 1024
+  orig: 1344, 1024
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/City center
+  rotate: false
+  xy: 4, 4
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Bush
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-bee
+  rotate: false
+  xy: 96, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Concrete
+  rotate: false
+  xy: 188, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Puddle
+  rotate: false
+  xy: 280, 220
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sand
+  rotate: false
+  xy: 1036, 1036
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Soil
+  rotate: false
+  xy: 1128, 1108
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Untitled 02-15-2024 07-22-39 (21)
+  rotate: false
+  xy: 1220, 1180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Guardian ant
+  rotate: false
+  xy: 4, 220
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Guardian ant-bee
+  rotate: false
+  xy: 1036, 1252
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Soldier ant-bee
+  rotate: false
+  xy: 1036, 1252
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sprayer ant-bee
+  rotate: false
+  xy: 1036, 1252
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mantis
+  rotate: false
+  xy: 4, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Scout ant
+  rotate: false
+  xy: 96, 220
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Scout ant-bee
+  rotate: false
+  xy: 1036, 1180
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Soldier ant
+  rotate: false
+  xy: 1128, 1252
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spider
+  rotate: false
+  xy: 96, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sprayer ant
+  rotate: false
+  xy: 188, 220
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker ant
+  rotate: false
+  xy: 1036, 1108
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Young queen
+  rotate: false
+  xy: 1128, 1180
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Young queen-bee
+  rotate: false
+  xy: 1220, 1252
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Soldier ant
+  rotate: false
+  xy: 4, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Soldier ant 3
+  rotate: false
+  xy: 4, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+ants
+  rotate: false
+  xy: 4, 292
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1

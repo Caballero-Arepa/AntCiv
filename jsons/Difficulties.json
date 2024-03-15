@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Larva",
+		"name": "Settler",
 		"baseHappiness": 15,
 		"extraHappinessPerLuxury": 1,
 		"researchCostModifier": 0.9,
@@ -29,7 +29,7 @@
 		"clearBarbarianCampReward": 50
 	},
 	{
-		"name": "Worker",
+		"name": "Chieftain",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 1,
 		"researchCostModifier": 0.95,
@@ -58,7 +58,7 @@
 		"clearBarbarianCampReward": 40
 	},
 	{
-		"name": "Sentinel",
+		"name": "Warlord",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -87,7 +87,7 @@
 		"clearBarbarianCampReward": 30
 	},
 	{
-		"name": "Queen",
+		"name": "Prince",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -116,7 +116,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Mantis",
+		"name": "King",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -136,7 +136,7 @@
 		"aiBuildingMaintenanceModifier": 0.85,
 		"aiUnitMaintenanceModifier": 0.8,
 		"aiUnitSupplyModifier": 0.3,
-		"aiFreeTechs": ["Pottery"],
+		//"aiFreeTechs": ["Pottery"],
 		"aiMajorCivBonusStartingUnits": ["Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.9,
@@ -145,7 +145,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Spider",
+		"name": "Emperor",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -165,8 +165,8 @@
 		"aiBuildingMaintenanceModifier": 0.8,
 		"aiUnitMaintenanceModifier": 0.75,
 		"aiUnitSupplyModifier": 0.3,
-		"aiFreeTechs": ["Pottery","Animal Husbandry"],
-		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Scout"],
+		//"aiFreeTechs": ["Pottery","Animal Husbandry"],
+		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Scout ant"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.85,
 		"aisExchangeTechs": true,
@@ -174,7 +174,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Ant Eater",
+		"name": "Immortal",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -194,8 +194,8 @@
 		"aiBuildingMaintenanceModifier": 0.65,
 		"aiUnitMaintenanceModifier": 0.65,
 		"aiUnitSupplyModifier": 0.4,
-		"aiFreeTechs": ["Pottery","Animal Husbandry","Mining"],
-		"aiMajorCivBonusStartingUnits": ["Worker", "Scout", "Era Starting Unit", "Era Starting Unit"],
+		//"aiFreeTechs": ["Pottery","Animal Husbandry","Mining"],
+		"aiMajorCivBonusStartingUnits": ["Worker ant", "Scout ant", "Era Starting Unit", "Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.75,
 		"aisExchangeTechs": true,
@@ -203,7 +203,7 @@
 		"clearBarbarianCampReward": 25
 	},
 	{
-		"name": "Exterminator",
+		"name": "Deity",
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -223,8 +223,8 @@
 		"aiBuildingMaintenanceModifier": 0.5,
 		"aiUnitMaintenanceModifier": 0.5,
 		"aiUnitSupplyModifier": 0.5,
-		"aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
-		"aiMajorCivBonusStartingUnits": ["Settler", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
+		//"aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
+		"aiMajorCivBonusStartingUnits": ["Young queen", "Worker ant", "Scout ant", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.6,
 		"aisExchangeTechs": true,

@@ -1,0 +1,22 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Era",
+		"techCost": 10,
+		"buildingCost": 100,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Ants tech",
+				"row": 0,
+				"quote": "techtech ant tech",
+				"uniques": ["Starting tech"],
+				"civilopediaText": [
+					{
+						"text": "tech tech ant tech"
+					}
+				]
+			}
+		]
+	},
+]

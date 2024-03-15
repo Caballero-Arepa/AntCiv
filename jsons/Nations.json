@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255],
+//		"innerColor": [255,255,255]
+	},
+	{
+		"name": "Test Ants",
+		"leaderName": "Developer Ant",
+		"adjective": ["Test"],
+		
+		"startIntroPart1": "startIntroPart1",
+		
+		"declaringWar": "Surrender, or you will be eaten",
+		"attacked": "fool",
+		"defeated": "...",
+		"introduction": "hello",
+		
+		"neutralHello": "hello",
+		"hateHello": "go away",
+		"tradeRequest": "it is trade",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,0],
+		"uniqueName": "No uniques",
+		"uniques": [
+	"[-50]% Strength <for [10] turns>"
+	"Triggers the following global alert: [Rain season!]"
+	"[-50]% Strength <for [10] turns> <every [40] turns>"
+	"Triggers the following global alert: [Rain season!] <every [40] turns>"],
+		"cities": ["Anthill"]
+	},
+	{
+		"name": "Reaper ants",
+		"leaderName": "Reaper ant",
+		"adjective": ["Reaper ant"],
+		
+		"startIntroPart1": "startIntroPart1",
+		
+		"declaringWar": "Surrender, or you will be eaten",
+		"attacked": "fool",
+		"defeated": "...",
+		"introduction": "hello",
+		
+		"neutralHello": "hello",
+		"hateHello": "go away",
+		"tradeRequest": "it is trade",
+
+		"outerColor": [127,127,0],
+		"innerColor": [100,100,0],
+		"uniqueName": "No uniques",
+		"uniques": [],
+		"cities": ["Reaper Anthill"]
+	},
+	{
+		"name": "Fire ants",
+		"leaderName": "Fire ant",
+		"adjective": ["Fire ant"],
+		
+		"startIntroPart1": "startIntroPart1",
+		
+		"declaringWar": "Surrender, or you will be eaten",
+		"attacked": "fool",
+		"defeated": "...",
+		"introduction": "hello",
+		
+		"neutralHello": "hello",
+		"hateHello": "go away",
+		"tradeRequest": "it is trade",
+
+		"outerColor": [255,0,0],
+		"innerColor": [200,0,0],
+		"uniqueName": "No uniques",
+		"uniques": [],
+		"cities": ["Fire Anthill"]
+	},
+	{
+		"name": "Black ants",
+		"leaderName": "Black ant",
+		"adjective": ["Black ant"],
+		
+		"startIntroPart1": "startIntroPart1",
+		
+		"declaringWar": "Surrender, or you will be eaten",
+		"attacked": "fool",
+		"defeated": "...",
+		"introduction": "hello",
+		
+		"neutralHello": "hello",
+		"hateHello": "go away",
+		"tradeRequest": "it is trade",
+
+		"outerColor": [63,63,63],
+		"innerColor": [0,0,0],
+		"uniqueName": "No uniques",
+		"uniques": [],
+		"cities": ["Black Anthill"]
+	},
+	{
+		"name": "Bees",
+		"leaderName": "Bee",
+		"adjective": ["Bee"],
+		
+		"startIntroPart1": "startIntroPart1",
+		
+		"declaringWar": "Surrender, or you will be eaten",
+		"attacked": "fool",
+		"defeated": "...",
+		"introduction": "hello",
+		
+		"neutralHello": "hello",
+		"hateHello": "go away",
+		"tradeRequest": "it is trade",
+
+		"outerColor": [255,255,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "No uniques",
+		"uniques": [],
+		"cities": ["Bee hive"],
+		"style": "bee"
+	},
+	{
+		"name": "Barbarians",
+		"outerColor": [0, 0, 0],
+		"innerColor": [200, 0, 0],
+		"uniques": ["Can only heal by pillaging"]
+	}
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Capital",
+		"isNationalWonder": true,
+		"cityStrength": 5,
+		"cityHealth": 5,
+		"food": 1,
+		"production": 1,
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Queen chamber",
+		"production": 2,
+		"food": 1,
+		"cost": 20,
+		"uniques": ["[+20]% Production when constructing [All] units [in this city]"]
+	},
+	{
+		"name": "Workers chamber",
+		"production": 2,
+		"cost": 20,
+		"uniques": [
+			"[+50]% Production when constructing [Civilian] units [in this city]"
+		]
+	},
+	{
+		"name": "Soldiers chamber",
+		"production": 2,
+		"cost": 20,
+		"uniques": [
+			"[+50]% Production when constructing [Military] units [in this city]"
+		]
+	},
+	{
+		"name": "Food storage",
+		"food": 2,
+		"cost": 20,
+		"uniques": [
+			"[20]% Food is carried over after population increases [in this city]"
+		]
+	},
+	{
+		"name": "Resource storage",
+		"production": 1,
+		"science": 1,
+		"gold": 2,
+		"culture": 1,
+		"cost": 20,
+		"maintenance": 0,
+		"uniques": [
+		]
+	},
+	{
+		"name": "Ant defence",
+		"cityStrength": 50,
+		"cityHealth": 50,
+		"cost": 20,
+	},
+
+]

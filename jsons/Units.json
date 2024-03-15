@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Young queen",
+		"name": "Young Queen",
 		"unitType": "Civilian",
 		"movement": 3,
 		"cost": 50,
@@ -9,7 +9,7 @@
 			"Only available <in cities with a [Queen chamber]>"]
 	},
 	{
-		"name": "Worker ant",
+		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 3,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", 
@@ -17,7 +17,7 @@
 		"cost": 20
 	},
 	{
-		"name": "Scout ant",
+		"name": "Scout",
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 1,
@@ -27,7 +27,7 @@
 		//"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Soldier ant",
+		"name": "Soldier",
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 5,
@@ -36,7 +36,7 @@
 		//"attackSound": "nonmetalhit",
 	}, 
 	{
-		"name": "Guardian ant",
+		"name": "Guardian",
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 5,
@@ -45,7 +45,7 @@
 		//"attackSound": "nonmetalhit",
 	}, 
 	{
-		"name": "Sprayer ant",
+		"name": "Sprayer",
 		"unitType": "Ranged",
 		"movement": 2,
 		"strength": 3,

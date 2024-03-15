@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Recolectors",
+		"terrainsCanBeBuiltOn": ["Bush","Branches","Soil","Sand","Concrete","Rock","Grass","Stick","Leaf","Moss"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"uniques": [
+			"Pillaging this improvement yields approximately [+18 Gold]"],
+		"shortcutKey": "R"
+	},
+	{
 		"name": "City center",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Irremovable","Unbuildable"],

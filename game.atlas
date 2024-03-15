@@ -1,200 +1,363 @@
 
 game.png
-size: 2048, 2048
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Units/Soldier ant 2
+TileSets/HexaRealm/Tiles/Aphids
   rotate: false
-  xy: 4, 4
-  size: 1344, 1024
-  orig: 1344, 1024
+  xy: 740, 76
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
-UnitIcons/Soldier ant 2
+TileSets/HexaRealm/Tiles/Barbarian encampent
   rotate: false
-  xy: 4, 4
-  size: 1344, 1024
-  orig: 1344, 1024
+  xy: 832, 148
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
-
-game2.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/HexaRealm/Tiles/City center
-  rotate: false
-  xy: 4, 4
-  size: 1024, 1024
-  orig: 1024, 1024
-  offset: 0, 0
-  index: -1
-
-game3.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 TileSets/HexaRealm/Tiles/Bush
   rotate: false
-  xy: 4, 4
+  xy: 740, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center
+  rotate: false
+  xy: 812, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-bee
   rotate: false
-  xy: 96, 76
+  xy: 904, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Clay
+  rotate: false
+  xy: 812, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Concrete
   rotate: false
-  xy: 188, 148
+  xy: 884, 84
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Dew Drops
+  rotate: false
+  xy: 976, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Flowers
+  rotate: false
+  xy: 884, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Honey Comb
+  rotate: false
+  xy: 956, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Leaf
+  rotate: false
+  xy: 1048, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Moss
+  rotate: false
+  xy: 1028, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plastic Wall
+  rotate: false
+  xy: 1120, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Puddle
   rotate: false
-  xy: 280, 220
+  xy: 1100, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Recolectors
+  rotate: false
+  xy: 1192, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rock
+  rotate: false
+  xy: 1172, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Sand
   rotate: false
-  xy: 1036, 1036
+  xy: 1264, 148
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Seeds
+  rotate: false
+  xy: 1244, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Soil
   rotate: false
-  xy: 1128, 1108
+  xy: 1336, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Untitled 02-15-2024 07-22-39 (21)
+TileSets/HexaRealm/Tiles/Stick
   rotate: false
-  xy: 1220, 1180
+  xy: 1316, 76
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Guardian ant
+TileSets/HexaRealm/Tiles/Watercress
   rotate: false
-  xy: 4, 220
-  size: 84, 64
-  orig: 84, 64
+  xy: 1408, 148
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Guardian ant-bee
-  rotate: false
-  xy: 1036, 1252
-  size: 84, 64
-  orig: 84, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Soldier ant-bee
-  rotate: false
-  xy: 1036, 1252
-  size: 84, 64
-  orig: 84, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Sprayer ant-bee
-  rotate: false
-  xy: 1036, 1252
-  size: 84, 64
-  orig: 84, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Mantis
+TileSets/HexaRealm/Units/Guardian
   rotate: false
   xy: 4, 148
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Scout ant
+TileSets/HexaRealm/Units/Guardian-bee
   rotate: false
-  xy: 96, 220
+  xy: 4, 76
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Scout ant-bee
+TileSets/HexaRealm/Units/Soldier-bee
   rotate: false
-  xy: 1036, 1180
+  xy: 4, 76
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Soldier ant
+TileSets/HexaRealm/Units/Sprayer-bee
   rotate: false
-  xy: 1128, 1252
+  xy: 4, 76
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Spider
+TileSets/HexaRealm/Units/Mantis
   rotate: false
   xy: 96, 148
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Sprayer ant
+TileSets/HexaRealm/Units/Scout
   rotate: false
-  xy: 188, 220
+  xy: 4, 4
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Worker ant
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
   rotate: false
-  xy: 1036, 1108
+  xy: 4, 4
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Scout-bee
+  rotate: false
+  xy: 96, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Soldier
+  rotate: false
+  xy: 188, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 188, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 6
+TileSets/HexaRealm/Units/Soldier ant 3
+  rotate: false
+  xy: 96, 4
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Spider
+  rotate: false
+  xy: 188, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sprayer
+  rotate: false
+  xy: 280, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 188, 4
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 3
 TileSets/HexaRealm/Units/Young queen
   rotate: false
-  xy: 1128, 1180
+  xy: 188, 4
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 280, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 8
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 372, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 11
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 280, 4
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 12
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 372, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 14
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 464, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 16
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 372, 4
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 18
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 464, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 26
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08
+  rotate: false
+  xy: 556, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: 32
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08_2024-02-16T16.06.55
+  rotate: false
+  xy: 464, 4
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08_2024-02-16T16.06.59
+  rotate: false
+  xy: 556, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08_2024-02-18T06.50.47
+  rotate: false
+  xy: 648, 148
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08_2024-02-21T10.39.41
+  rotate: false
+  xy: 556, 4
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Untitled_02-16-2024_09-22-08_2024-02-21T10.43.24
+  rotate: false
+  xy: 648, 76
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Worker
+  rotate: false
+  xy: 740, 148
   size: 84, 64
   orig: 84, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Young queen-bee
   rotate: false
-  xy: 1220, 1252
+  xy: 648, 4
   size: 84, 64
   orig: 84, 64
-  offset: 0, 0
-  index: -1
-UnitIcons/Soldier ant
-  rotate: false
-  xy: 4, 76
-  size: 84, 64
-  orig: 84, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Soldier ant 3
-  rotate: false
-  xy: 4, 76
-  size: 84, 64
-  orig: 84, 64
-  offset: 0, 0
-  index: -1
-ants
-  rotate: false
-  xy: 4, 292
-  size: 1024, 1024
-  orig: 1024, 1024
   offset: 0, 0
   index: -1
